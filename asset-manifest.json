@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frontend-art-selling-pal/static/css/main.409a5fc3.css",
+    "main.js": "/frontend-art-selling-pal/static/js/main.9379d1d9.js",
+    "static/js/787.0b4aa7c1.chunk.js": "/frontend-art-selling-pal/static/js/787.0b4aa7c1.chunk.js",
+    "static/media/art5.png": "/frontend-art-selling-pal/static/media/art5.3a08fafcb346104d8435.png",
+    "index.html": "/frontend-art-selling-pal/index.html",
+    "main.409a5fc3.css.map": "/frontend-art-selling-pal/static/css/main.409a5fc3.css.map",
+    "main.9379d1d9.js.map": "/frontend-art-selling-pal/static/js/main.9379d1d9.js.map",
+    "787.0b4aa7c1.chunk.js.map": "/frontend-art-selling-pal/static/js/787.0b4aa7c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409a5fc3.css",
+    "static/js/main.9379d1d9.js"
+  ]
+}
