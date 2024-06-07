@@ -32,7 +32,7 @@ function App() {
   return (
     
     <>
-      <Router>
+      <Router basename="/frontend-art-selling-pal">
         <div
           style={{
             minWidth: "100vh",
