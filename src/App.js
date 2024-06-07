@@ -46,9 +46,6 @@ function App() {
           <div style={{marginTop:"2%", position:"relative"}}>
           <Routes >
             <Route
-              path="/"
-              element={<Home/>} />
-            <Route
               path="/categories"
               element={<Categories />}
             />
@@ -74,7 +71,12 @@ function App() {
               path="/artDetail"
               element={<ArtDetail />}
             />
-            <Route path="/owner" element={<Owner />} />
+            <Route 
+              path="/owner" 
+              element={<Owner />} />
+            <Route
+              path="*"
+              element={<Home/>} />
           </Routes>
           </div>
           <Footer />
